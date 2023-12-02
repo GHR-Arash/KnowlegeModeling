@@ -1,0 +1,107 @@
+{
+    "Natural Sciences": {
+      "Physical Sciences": {
+        "Astronomy": [
+          "Study of the universe, stars, planets, and galaxies",
+          "Real-world applications: GPS navigation, weather forecasting, space exploration"
+        ],
+        "Physics": [
+          "Study of matter, energy, and their interactions",
+          "Real-world applications: Medical imaging, electronics, renewable energy"
+        ],
+        "Chemistry": [
+          "Study of the composition, structure, and properties of matter",
+          "Real-world applications: Pharmaceuticals, materials science, environmental remediation"
+        ],
+        "Geology": [
+          "Study of the Earth's structure, composition, and history",
+          "Real-world applications: Mineral exploration, natural hazard mitigation, water resource management"
+        ],
+        "Materials Science": [
+          "Study of the properties of materials and their design for specific applications",
+          "Real-world applications: Construction materials, medical implants, electronic devices"
+        ]
+      },
+      "Earth Sciences": {
+        "Geography": [
+          "Study of the Earth's surface, climate, and human interactions with the environment",
+          "Real-world applications: Urban planning, environmental management, disaster preparedness"
+        ],
+        "Geophysics": [
+          "Study of the Earth's physical properties, such as its interior structure, magnetism, and gravity",
+          "Real-world applications: Earthquake prediction, mineral exploration, oil and gas exploration"
+        ],
+        "Atmospheric Science": [
+          "Study of the Earth's atmosphere, its composition, and the processes that affect it",
+          "Real-world applications: Weather forecasting, climate change research, air pollution control"
+        ],
+        "Oceanography": [
+          "Study of the oceans, their physical and chemical properties, and their role in the Earth's climate system",
+          "Real-world applications: Marine resource management, coastal protection, climate change research"
+        ],
+        "Environmental Science": [
+          "Study of the interactions between humans and the environment",
+          "Real-world applications: Pollution control, conservation, sustainability"
+        ]
+      },
+      "Life Sciences": {
+        "Biology": [
+          "Study of living organisms and their interactions with the environment",
+          "Real-world applications: Medicine, agriculture, biotechnology"
+        ],
+        "Zoology": [
+          "Study of animals",
+          "Real-world applications: Wildlife conservation, animal welfare, veterinary medicine"
+        ],
+        "Botany": [
+          "Study of plants",
+          "Real-world applications: Agriculture, forestry, horticulture"
+        ],
+        "Microbiology": [
+          "Study of microscopic organisms, such as bacteria and viruses",
+          "Real-world applications: Medicine, biotechnology, food production"
+        ],
+        "Ecology": [
+          "Study of the interactions between organisms and their environment",
+          "Real-world applications: Conservation biology, pest management, ecosystem restoration"
+        ]
+      }
+    },
+    "Social Sciences": {
+      "Economics": [
+        "Study of production, distribution, and consumption of goods and services",
+          "Real-world applications: Economic policy, financial markets, business management"
+      ],
+      "Psychology": [
+        "Study of the human mind and behavior",
+          "Real-world applications: Mental health counseling, education, human resource management"
+      ],
+      "Sociology": [
+        "Study of human society and social interaction",
+          "Real-world applications: Social policy, urban planning, criminal justice"
+      ],
+      "Anthropology": [
+        "Study of human beings and their cultures",
+          "Real-world applications: International development, cultural preservation, forensic anthropology"
+      ],
+      "Political Science": [
+        "Study of government, political institutions, and political behavior",
+          "Real-world applications: Public policy, international relations, political campaigning"
+      ]
+    },
+    "Humanities": {
+      "History": [
+        "Study of the past and the events that have shaped the world",
+          "Real-world applications: Understanding the present, making informed decisions about the future"
+      ],
+      "Philosophy": [
+        "Study of fundamental questions about existence, knowledge, values, reason, mind, and language",
+          "Real-world applications: Critical thinking, ethical decision-making, understanding human nature"
+      ],
+      "Linguistics": [
+        "Study of human language and its structure, function"],  
+    "Linguistics": [],
+    "Literature": [],
+    "Art": []
+  }
+}
